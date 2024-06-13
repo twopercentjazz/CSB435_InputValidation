@@ -50,3 +50,18 @@ button {
 button:hover {
     background-color: #4cae4c;
 }
+
+.info-box {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+}
+
+.info-box h3 {
+    margin-top: 0;
+}
+
+.info-box ul {
+    padding-left: 20px;
+}
